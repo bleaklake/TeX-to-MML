@@ -1,2 +1,3 @@
-# AM-to-CHTML
+# AM-to-MML
+
 MathJax sub library
