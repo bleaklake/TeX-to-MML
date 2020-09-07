@@ -1,4 +1,4 @@
-declare module "AM-to-MML" {
+declare module "TeX-to-MML" {
 
     /* interface options {
         width?: number,
@@ -7,5 +7,5 @@ declare module "AM-to-MML" {
         fontURL?: string
     } */
 
-    export default function AMToCHTML(str: string): string;
+    export default function TeXToMML(str: string): string;
 }

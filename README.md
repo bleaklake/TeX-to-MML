@@ -1,3 +1,3 @@
-# AM-to-MML
+# TeX-to-MML
 
 MathJax sub library

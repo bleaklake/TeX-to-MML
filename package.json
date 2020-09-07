@@ -1,17 +1,16 @@
 {
-  "name": "am-to-mml",
+  "name": "tex-to-mml",
   "version": "0.1.0",
-  "description": "The MathJax library to convert AsciiMath to MML",
-  "main": "AMToMML.js",
+  "description": "The MathJax library to convert TeX to MML",
+  "main": "TeXToMML.js",
   "keywords": [
-    "AM",
-    "AsciiMath",
+    "TeX",
     "MML",
     "MathJax"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CreatifCreateur/AM-to-MML.git"
+    "url": "git+https://github.com/CreatifCreateur/TeX-to-MML.git"
   },
   "author": "@CreateurCreatif",
   "license": "MIT",
@@ -19,9 +18,9 @@
     "mathjax-full": "^3.1.0"
   },
   "bugs": {
-    "url": "https://github.com/CreatifCreateur/AM-to-MML/issues"
+    "url": "https://github.com/CreatifCreateur/TeX-to-MML/issues"
   },
-  "homepage": "https://github.com/CreatifCreateur/AM-to-MML#readme",
+  "homepage": "https://github.com/CreatifCreateur/TeX-to-MML#readme",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
