@@ -1,11 +1,4 @@
-declare module "TeX-to-MML" {
-
-    /* interface options {
-        width?: number,
-        ex?: number,
-        em?: number,
-        fontURL?: string
-    } */
+declare module "tex-to-mml" {
 
     export default function TeXToMML(str: string): string;
 }

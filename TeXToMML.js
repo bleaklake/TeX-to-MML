@@ -18,4 +18,4 @@ function TeXToMML(str) {
     return toMathML(html.convert(str, { display: !INLINE, end: STATE.CONVERT }));
 }
 
-module.exports = { TeXToMML };
+module.exports = TeXToMML;

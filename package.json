@@ -1,6 +1,6 @@
 {
   "name": "tex-to-mml",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The MathJax library to convert TeX to MML",
   "main": "TeXToMML.js",
   "keywords": [
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/CreatifCreateur/TeX-to-MML.git"
   },
-  "author": "@CreateurCreatif",
+  "author": "@CreatifCreateur",
   "license": "MIT",
   "dependencies": {
     "mathjax-full": "^3.1.0"
